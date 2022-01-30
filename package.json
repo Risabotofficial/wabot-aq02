@@ -1,38 +1,38 @@
 {
-  "name": "wabot-aq",
+  "name": "Risa Bot Wa",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Risa WhatsApp Bot",
   "depecrated": false,
-  "main": "index.js",
+  "main": ".cerpeninggris",
   "directories": {
     "lib": "lib",
     "src": "src",
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
+    "start": ".menu",
+    "test": ".tes"
   },
   "keywords": [
     "termux-whatsapp-bot",
     "whatsapp-bot",
     "whatsapp",
-    "js-whatsapp"
+    "Rs-whatsapp"
   ],
   "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "Sakura Wibu"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Risabotwaofficial/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@thenaycis54/baileys": "github:Risabotofficial/baileys",
     "awesome-phonenumber": "^2.54.0",
     "brainly-scraper-v2": "^2.0.4-1",
     "cfonts": "^2.9.3",
